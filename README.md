@@ -1,6 +1,7 @@
 ## Olá, me chamo Felipi👋
 
 - Estudando Python/JavaScript
+- SQL/CSS
 - Inglês/Françes
 
 <div align="center">
