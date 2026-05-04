@@ -2,7 +2,7 @@
 
 - Estudando Python/JavaScript
 - SQL/CSS
-- Inglês/Françes
+- Inglês/Frances
 
 <div align="center">
   <a href="https://git.io/typing-svg">
